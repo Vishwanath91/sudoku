@@ -1,0 +1,26 @@
+<html>
+    <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  <body>
+<table id="grid">
+  <tbody>
+      <ng-container *ngFor="let row of custom; let i = index;">
+    <tr class="row">
+        <ng-container *ngFor="let i of row; let i = index;">
+        <td class="cell" contenteditable="true" [textContent]="i">{{i}}</td>
+        </ng-container>          
+      </tr>
+    </ng-container>
+  </tbody>
+</table>
+<div class="container">
+    <button type="button" class="btn btn-success" (click)="solveSudoku()">Solve</button>
+  </div>
+  <div class="container">
+      <button type="button" class="btn" (click)="customSudoku()">Custom Sudoku</button>
+    </div>
+</body>
+</html>

@@ -1,0 +1,14 @@
+E:\sudokuapi\sudokuapi\bin\Debug\netcoreapp2.2\sudokuapi.deps.json
+E:\sudokuapi\sudokuapi\bin\Debug\netcoreapp2.2\sudokuapi.runtimeconfig.json
+E:\sudokuapi\sudokuapi\bin\Debug\netcoreapp2.2\sudokuapi.runtimeconfig.dev.json
+E:\sudokuapi\sudokuapi\bin\Debug\netcoreapp2.2\sudokuapi.dll
+E:\sudokuapi\sudokuapi\bin\Debug\netcoreapp2.2\sudokuapi.pdb
+E:\sudokuapi\sudokuapi\obj\Debug\netcoreapp2.2\sudokuapi.csprojAssemblyReference.cache
+E:\sudokuapi\sudokuapi\obj\Debug\netcoreapp2.2\sudokuapi.csproj.CoreCompileInputs.cache
+E:\sudokuapi\sudokuapi\obj\Debug\netcoreapp2.2\sudokuapi.RazorAssemblyInfo.cache
+E:\sudokuapi\sudokuapi\obj\Debug\netcoreapp2.2\sudokuapi.RazorAssemblyInfo.cs
+E:\sudokuapi\sudokuapi\obj\Debug\netcoreapp2.2\sudokuapi.AssemblyInfoInputs.cache
+E:\sudokuapi\sudokuapi\obj\Debug\netcoreapp2.2\sudokuapi.AssemblyInfo.cs
+E:\sudokuapi\sudokuapi\obj\Debug\netcoreapp2.2\sudokuapi.RazorTargetAssemblyInfo.cache
+E:\sudokuapi\sudokuapi\obj\Debug\netcoreapp2.2\sudokuapi.dll
+E:\sudokuapi\sudokuapi\obj\Debug\netcoreapp2.2\sudokuapi.pdb
